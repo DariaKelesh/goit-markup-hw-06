@@ -786,8 +786,8 @@ background-color: var(--accent-color);
 }
 
 .form-field:focus-within .form-text {
-    outline: 1px solid var(--accent-color);
-    border: none;
+    border: 1px solid var(--accent-color);
+
 }
 
 .name-icon, .tel-icon, .email-icon {
